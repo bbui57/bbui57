@@ -16,6 +16,7 @@ Hello! My name is Brian, I aim to direct my work towards integrating AI/ML into 
 ### 🌎 **Languages and Tools**
 #### Comfortable
 
+<p float="left">
 <img alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -23,14 +24,17 @@ Hello! My name is Brian, I aim to direct my work towards integrating AI/ML into 
 <br><br>
 <img alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+</p>
           
           
 
 #### Learning
 
+<p float="left">
 <img alt="OpenCV" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
 <img alt="Blender" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 <img alt="Blender" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
+</p>
           
 [1]:<https://www.linkedin.com/in/brian-q-bui/> "LinkedIn Profile"          
           
