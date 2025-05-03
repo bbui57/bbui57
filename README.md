@@ -2,10 +2,8 @@
 
 Hello! My name is Brian, I aim to direct my work towards integrating AI/ML into biological and molecular datasets in order to further developments in understanding human biology and disease.
 
-- I am currently enrolled in a postbacc program intending to receive my Master's Degree in Software Engineering by the end of 2027.
-- I am currently working on self-developing my knowledge in cybersecurity and receiving my CompTIA Security+ certification in the near future.
-- I have years of experience in healthcare and customer satisfaction from my undergraduate studies and recent field of work.
-
+- I am working towards my Master's Degree in Software Engineering.
+- I have years of experience in healthcare and customer service from my undergraduate studies and recent field of work.
 
 > 💡 I am currently seeking hands-on opportunities to develop and apply my skills mainly in the AI/ML field, but also in general software engineering and cybersecurity.  
 > [Connect with me on LinkedIn!][1]
@@ -40,19 +38,10 @@ Hello! My name is Brian, I aim to direct my work towards integrating AI/ML into 
           
 ---
 ### 📚 **Projects**
-#### 🤸🏻‍♂️ Personal Works
-*Completed or in-progress projects that I have worked on in my free time.*
+
 
 | Demo | Description |
 | :---: | :---: |
 | <img alt="Tetris Simulation" height="300px" src=TetrisDemo.png/> | Tetris simulation created using Pygame Library. <br> This simulator takes input from a .txt file to lay pieces on the board. |
 | <img alt="Camera Motion Tracking" width="300px" src=MotionTrack.gif/> | [Motion Tracking using OpenCV.](https://github.com/bbui57/Camera-Tracking) <br>Intending to use Keras to implement machine learning into this project. |
-
-#### 👨🏻‍🏫 Academic Works
-
-*These are demonstrations of the work I've accomplished for academic assignments and projects.  
-Code cannot be provided in order to maintain honor code.*
-
-| Demo | Description |
-| :---: | :---: |
 | <img alt="Naruto Model" width="300px" src=ModelDemo.gif/> | Model and animation created using OpenGL. <br> FLTK used to create sliders to control joint movements. |
